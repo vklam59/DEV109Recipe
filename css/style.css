@@ -2,3 +2,21 @@ html {
   height: 100%;
   width: 100%;
 }
+
+article{
+  padding: 10px;
+  margin: 10px;
+  background: #FFFFFF;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+  
+p{
+  color:#d63606; font-size: 16px;
+  font-weight:bold;
+}
+  
+
+a{
+  font-weight:bold;
+}
