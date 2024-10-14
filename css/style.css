@@ -7,8 +7,6 @@ article{
   padding: 10px;
   margin: 10px;
   background: #FFFFFF;
-  flex-direction: row;
-  flex-wrap: wrap;
 }
   
 p{
